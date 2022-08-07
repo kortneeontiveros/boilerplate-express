@@ -6,7 +6,9 @@
     "cookie-parser": "^1.4.3",
     "dotenv": "^16.0.1",
     "express": "^4.14.0",
-    "fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
+    "express-session": "^1.17.3",
+    "fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git",
+    "nodejs": "^0.0.0"
   },
   "main": "server.js",
   "scripts": {
